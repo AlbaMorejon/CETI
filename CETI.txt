@@ -1,0 +1,2 @@
+Necesito que en base a los documentos adjuntados sobre la asignatura de puesta de producción segura me hagas una simulacion de preguntas de examen que serán tipo test de respuesta unica o multirespuesta y preguntas de respuesta de redacción corta.
+Necesito que sea interactivo, tu me das una pregunta yo respondo y me das la explicación de el porque de la respuesta correcta, vas haciendo un conteo y me dices cuantas acierto y cuantas fallo en relación al total

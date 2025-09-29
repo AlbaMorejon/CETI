@@ -1,0 +1,1247 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/index.html
+Subject: =?utf-8?Q?HE01.-=20Hacking=20=C3=A9tico,=20conceptos,=20y=20herramientas?=
+ =?utf-8?Q?=20para=20detecci=C3=B3n=20de=20vulnerabilidades.?=
+Date: Sun, 24 Nov 2024 12:16:52 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----"
+
+
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----
+Content-Type: text/html
+Content-ID: <frame-2F94B56410996F2487DA4C4BA43874BF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/index.html
+
+<!DOCTYPE html><html lang=3D"es"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+
+<title>HE01.- Hacking =C3=A9tico, conceptos, y herramientas para detecci=C3=
+=B3n de vulnerabilidades.</title>
+<link rel=3D"shortcut icon" href=3D"https://www.mecd.es/cidead/aulavirtual/=
+pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/fav=
+icon.ico" type=3D"image/x-icon">
+<meta name=3D"generator" content=3D"eXeLearning 2.6 - exelearning.net">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.mecd.es/cide=
+ad/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_Orientacio=
+nesAlumnado/base.css">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.mecd.es/cide=
+ad/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_Orientacio=
+nesAlumnado/content.css">
+<!--[if lt IE 9]><script type=3D"text/javascript" src=3D"exe_html5.js"></sc=
+ript><![endif]-->
+
+
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+></head>
+<body class=3D"exe-single-page js">
+<div id=3D"content">
+<header id=3D"header" role=3D"banner">
+<div id=3D"headerContent">
+<h1>HE01.- Hacking =C3=A9tico, conceptos, y herramientas para detecci=C3=B3=
+n de vulnerabilidades.</h1>
+</div>
+</header>
+<section id=3D"main" role=3D"main">
+<article class=3D"node level-1-node" id=3D"exe-node-0">
+<header class=3D"nodeDecoration">
+<h1 id=3D"exenode_0_HE01Hackingticoconceptosyherramientasparadeteccindevuln=
+erabilidades" class=3D"nodeTitle">HE01.- Hacking =C3=A9tico, conceptos, y h=
+erramientas para detecci=C3=B3n de vulnerabilidades.</h1>
+</header>
+<article class=3D"iDevice_wrapper OrientacionesalumnadofpdIdevice em_iDevic=
+e em_iDevice_orientacionesfpd" id=3D"id0-0">
+<div class=3D"iDevice emphasis_orientacionesfpd">
+<header class=3D"iDevice_header" style=3D"background-image:url(icon_orienta=
+cionesfpd.png)"><h2 class=3D"iDeviceTitle">Orientaciones Alumnado</h2></hea=
+der>
+<div class=3D"iDevice_inner">
+<div class=3D"iDevice_content_wrapper">
+<div id=3D"ta0_75" class=3D"block iDevice_content">
+<p>En esta unidad de trabajo adquirir=C3=A1s los conceptos generales relaci=
+onados con la disciplina hacking =C3=A9tico. Al finalizar esta unidad estar=
+=C3=A1s perfectamente familiarizado con los t=C3=A9rminos y conceptos utili=
+zados. Ser=C3=A1s capaz de medir el riesgo de una determinada vulnerabilida=
+d. Adem=C3=A1s, aprender=C3=A1s de los tipos de auditor=C3=ADa existentes, =
+fases en las que se dividen y el tipo de herramientas que se utilizan en ca=
+da una de estas fases.</p>
+<p>Se comienza explicando los conceptos b=C3=A1sicos de la disciplina hacki=
+ng =C3=A9tico, as=C3=AD como los tres pilares b=C3=A1sicos de la seguridad =
+de la informaci=C3=B3n, se mostrar=C3=A1 una clasificaci=C3=B3n de vulnerab=
+ilidades inform=C3=A1ticas y explicar=C3=A1 la metodolog=C3=ADa que nos per=
+mite realizar una valoraci=C3=B3n de la criticidad de estas vulnerabilidade=
+s. .</p>
+<p>El tema sigue analizando las diferentes tipolog=C3=ADas de auditor=C3=AD=
+as de seguridad realizadas por los auditores o "hackers =C3=A9ticos". Adem=
+=C3=A1s se detallar=C3=A1n todas las fases en las que se dividen estas audi=
+tor=C3=ADas.</p>
+<p>La unidad concluye enumerando herramientas utilizadas en la fase de prue=
+bas.</p>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class=3D"iDevice_wrapper FreeTextfpdIdevice" id=3D"id2-0">
+<div class=3D"iDevice emphasis0">
+<div id=3D"ta2_77" class=3D"block iDevice_content">
+<table class=3D"tabla" summary=3D"En esta tabla se muestran datos generales=
+ de la UT =C3=BAtiles para el alumnado=20
+	(=C3=ADndice, objetivos, temporalizaci=C3=B3n y consejos)" style=3D"width:=
+ 100%;"><caption>Datos generales de la Unidad de Trabajo</caption>
+<tbody>
+<tr>
+<th class=3D"texto_centrado" id=3D"mp" width=3D"17%">Nombre completo del <a=
+cronym title=3D"M=C3=B3dulo Profesional.">MP</acronym></th>
+<td class=3D"texto_centrado" headers=3D"mp" width=3D"64%">Hacking =C3=89tic=
+o</td>
+<th class=3D"texto_centrado" id=3D"sig" width=3D"9.5%">Siglas <acronym titl=
+e=3D"M=C3=B3dulo Profesional.">MP</acronym></th>
+<td class=3D"texto_centrado" headers=3D"sig" width=3D"9.5%"><abbr title=3D"=
+Hacking =C3=89tico">HE</abbr></td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" scope=3D"row"><abbr title=3D"N=C3=BAmero.">N=
+=C2=BA</abbr> y t=C3=ADtulo de la <acronym title=3D"Unidad de Trabajo.">UT =
+</acronym></th>
+<td class=3D"texto_centrado" colspan=3D"3">01.-&nbsp;Hacking =C3=A9tico, co=
+nceptos, y herramientas para detecci=C3=B3n de vulnerabilidades.</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" scope=3D"row">=C3=8Dndice o tabla de contenido=
+s</th>
+<td colspan=3D"3">
+<ol class=3D"lista_esquema">
+<li>Conceptos generales en hacking =C3=A9tico.&nbsp;
+<ol>
+<li>Diferencias entre actores/actividades =C3=A9ticas o criminales.</li>
+<li>Seguridad de la informaci=C3=B3n vs seguridad inform=C3=A1tica.</li>
+<li>Principios de la seguridad de la informaci=C3=B3n.</li>
+</ol>
+</li>
+<li>Concepto de Riesgo y Vulnerabilidad.
+<ol>
+<li>Valoraci=C3=B3n de vulnerabilidades.</li>
+<li>Clasificaci=C3=B3n de vulnerabilidades.</li>
+</ol>
+</li>
+<li>Auditor=C3=ADas de hacking =C3=A9tico.
+<ol>
+<li>Tipos de auditor=C3=ADa dependiendo del enfoque.</li>
+<li>Tipos de auditor=C3=ADa dependiendo del origen.</li>
+<li>Tipos de auditor=C3=ADa dependiendo de la informaci=C3=B3n proporcionad=
+a.</li>
+<li>Fases de una auditor=C3=ADa.
+<ol>
+<li>Pre-engagement o toma de requisitos.</li>
+<li>Ejecuci=C3=B3n de las pruebas.</li>
+<li>Seguimiento de las pruebas.</li>
+<li>Reporting o generaci=C3=B3n de informes.</li>
+<li>Cierre de auditor=C3=ADa.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Herramientas de seguridad y hacking =C3=A9tico.
+<ol>
+<li>Herramientas de Descubrimiento y Reconocimiento.</li>
+<li>Herramientas de Escaneo y Monitorizaci=C3=B3n.</li>
+<li>Herramientas de Explotaci=C3=B3n.</li>
+<li>Herramientas de Postexplotaci=C3=B3n.</li>
+</ol>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" scope=3D"row">Objetivos</th>
+<td colspan=3D"3">
+<p><strong>En esta unidad de trabajo deber=C3=A1s adquirir las siguientes h=
+abilidades.</strong></p>
+<ul class=3D"lista_verificacion">
+<li>Tener una idea clara de los conceptos b=C3=A1sicos en esta disciplina.<=
+/li>
+<li>Diferenciar el tipo de auditor=C3=ADas de seguridad existentes y saber =
+discernir en qu=C3=A9 escenarios es m=C3=A1s adecuado optar por uno u otro =
+tipo.</li>
+<li>Reconocer las fases que intervienen en el desarrollo de una auditor=C3=
+=ADa de "hacking =C3=A9tico" y la particularidades de cada fase, necesidade=
+s y objetivos.</li>
+<li>Conocer el tipo de herramientas utilizadas en cada fase de las pruebas =
+as=C3=AD como el objetivo de cada una de ellas.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" id=3D"temp" rowspan=3D"5" scope=3D"rowgroup">T=
+emporalizaci=C3=B3n<br>(estimaci=C3=B3n)</th>
+<th class=3D"texto_centrado" colspan=3D"2" id=3D"temp1" scope=3D"row">Tiemp=
+o necesario para estudiar los contenidos (<abbr title=3D"Horas.">h</abbr>)<=
+/th>
+<td class=3D"texto_centrado" headers=3D"temp temp1">12</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" colspan=3D"2" id=3D"temp2" scope=3D"row">Tiemp=
+o necesario para completar la tarea (<abbr title=3D"Horas.">h</abbr>)</th>
+<td class=3D"texto_centrado" headers=3D"temp temp2">4</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" colspan=3D"2" id=3D"temp3" scope=3D"row">Tiemp=
+o necesario para completar el examen (<abbr title=3D"Horas.">h</abbr>)</th>
+<td class=3D"texto_centrado" headers=3D"temp temp3">2</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" colspan=3D"2" id=3D"temp4" scope=3D"row"><abbr=
+ title=3D"N=C3=BAmero.">N=C2=BA</abbr> de d=C3=ADas que se recomienda dedic=
+ar a esta unidad</th>
+<td class=3D"texto_centrado" headers=3D"temp temp4">18</td>
+</tr>
+<tr>
+<td colspan=3D"3" headers=3D"temp">La temporalizaci=C3=B3n anterior no deja=
+ de ser una estimaci=C3=B3n media, ya que el tiempo a invertir va a depende=
+r mucho de las circunstancias personales de cada cual.</td>
+</tr>
+<tr>
+<th class=3D"texto_centrado" scope=3D"row">Consejos y recomendaciones</th>
+<td colspan=3D"3">Es aconsejable entender bien todos los conceptos puesto q=
+ue en las unidades sucesivas se har=C3=A1 referencia a ellos.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</article>
+</article>
+</section>
+
+
+</div>
+
+</body></html>
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/base.css
+
+@charset "utf-8";
+
+body { margin: 0px; padding: 0px 10px 10px; font-family: arial, verdana, he=
+lvetica, sans-serif; font-size: 0.8em; }
+
+#header { text-align: left; height: 50px; padding-left: 20px; font-size: 2.=
+2em; font-weight: bold; }
+
+a { text-decoration: none; }
+
+a:hover, a:focus { text-decoration: underline; }
+
+img.submit, img.help, img.info, img.gallery { border: 0px; }
+
+li { list-style-position: inside; }
+
+#nodeDecoration { padding: 0.1em; border-bottom: 0px; text-align: right; }
+
+.block, .feedback { display: block; padding-top: 0.25em; padding-bottom: 0.=
+25em; }
+
+.feedback { font-family: times, serif; font-size: 120%; }
+
+.feedback-button p { margin: 0px; }
+
+.emphasis0 { padding-left: 0px; margin: 0px; }
+
+.iDeviceTitle { font-weight: bold; position: relative; top: -18px; }
+
+input.feedbackbutton { margin-top: 10px; margin-bottom: 10px; }
+
+.popupDiv { background-color: rgb(237, 239, 240); border: 2px solid rgb(96,=
+ 116, 137); padding: 0px 4px 4px; margin-left: 15px; text-align: left; z-in=
+dex: 99; border-radius: 3px; }
+
+.popupDivLabel { text-align: center; font-style: ; font-variant: normal; fo=
+nt-stretch: ; font-size: ; line-height: ; font-family: ; font-optical-sizin=
+g: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-vari=
+ation-settings: ; font-weight: bold; color: rgb(255, 255, 255); cursor: mov=
+e; margin: 0px -4px; background-image: url("popup_bg.gif"); }
+
+@media print {
+  .feedback { display: block !important; }
+  .feedback.iDevice_solution a { text-decoration: none; color: inherit; }
+  .iDevice_solution li span { display: none; }
+  div.node, article.node { break-after: page; }
+  .external-iframe { display: none; }
+  .external-iframe-src { margin: 2em 0px; font-size: 0.95em; text-align: ce=
+nter; display: block !important; }
+}
+
+.external-iframe { border: 0px; }
+
+.iDevice a, #siteFooter a, #packageLicense a, .toggle-idevice a { text-deco=
+ration: underline; }
+
+.iDevice a:hover, #siteFooter a:hover, #packageLicense a:hover, .toggle-ide=
+vice a:hover { text-decoration: none; }
+
+.pre-code { background: rgb(17, 44, 74); color: rgb(231, 236, 241); font-fa=
+mily: Monaco, Courier, monospace; border-radius: 9px; font-size: 12px; marg=
+in: 2em 1em; overflow: auto; padding: 20px; }
+
+.iDevice_content { position: relative; max-width: 100%; }
+
+.exe-epub3 .iDevice_content { position: static; }
+
+.iDevice_header { background-position: 0px 50%; background-repeat: no-repea=
+t; }
+
+.iDevice_header.iDevice_header_noIcon { background-image: none; padding: 5p=
+x 0px; }
+
+.TrueFalseIdevice label { white-space: nowrap; margin-right: 1em; line-heig=
+ht: 1.7em; }
+
+.exe-dl { margin-bottom: 2em; margin-left: 1.5em; }
+
+.exe-dl dt { font-weight: bold; }
+
+.exe-dl dd { margin: 1em 1.5em; }
+
+.js .exe-dl dt { margin: 1.2em 0px 0px; }
+
+.exe-dl dt a { text-decoration: underline; }
+
+.exe-dl .icon, .exe-dl-toggler a { display: block; width: 20px; height: 20p=
+x; font-size: 1.2em; margin-right: 1em; line-height: 20px; text-align: cent=
+er; float: left; border-radius: 2px; position: relative; }
+
+.exe-dl-toggler { height: 20px; margin: 1.5em; }
+
+.exe-dl-toggler a { margin-left: 0px; font-weight: bold; }
+
+.js .exe-dl dd { display: none; padding-left: 0px; margin: 1em 1em 1em 37px=
+; }
+
+.exe-math { margin: 2em 0px; }
+
+.exe-math, .MathJax_Display { text-align: left !important; }
+
+.exe-math.position-center, .position-center .MathJax_Display, [style*=3D"te=
+xt-align: center"] .MathJax_Display { text-align: center !important; }
+
+.exe-math.position-right, .position-right .MathJax_Display, [style*=3D"text=
+-align: right"] .MathJax_Display { text-align: right !important; }
+
+.js .show-image .exe-math-code, .js .show-code .exe-math-img { display: non=
+e; }
+
+.exe-math-links { font-size: 0.85em; }
+
+.exe-figure { margin: 2em 0px; max-width: 100%; }
+
+.position-center { margin: 2em auto; }
+
+.position-right { margin: 2em 0px 2em auto; }
+
+.float-left { float: left; margin: 0.5em 1.5em 1em 0px; }
+
+.float-right { float: right; margin: 0.5em 0px 1em 2em; }
+
+.figcaption { padding-top: 0.2em; }
+
+.figcaption.header { padding-top: 0px; padding-bottom: 0.2em; }
+
+.exe-layout-2-cols, .exe-layout-3-cols { width: 100%; }
+
+.exe-layout-2-cols .exe-col { float: left; width: 49%; }
+
+.exe-layout-2-cols .exe-col-1 { padding-right: 1%; }
+
+.exe-layout-2-cols .exe-col-2 { padding-left: 1%; }
+
+.exe-layout-2-30-70 .exe-col { width: 69%; }
+
+.exe-layout-2-30-70 .exe-col-1 { width: 29%; }
+
+.exe-layout-2-70-30 .exe-col { width: 29%; }
+
+.exe-layout-2-70-30 .exe-col-1 { width: 69%; }
+
+.exe-layout-3-cols .exe-col { float: left; width: 32%; }
+
+.exe-layout-3-cols .exe-col-1, .exe-layout-3-cols .exe-col-2 { padding-righ=
+t: 2%; }
+
+.exe-block-warning { background: rgb(252, 248, 227); color: rgb(121, 96, 52=
+); border: 1px solid rgb(250, 235, 204); padding: 0px 1em; border-radius: 4=
+px; }
+
+p.exe-block-warning { padding: 1em; }
+
+.exe-block-alert { background: rgb(255, 255, 204); color: rgb(133, 80, 0); =
+border: 1px solid rgb(255, 240, 153); padding: 0px 1em; border-radius: 4px;=
+ }
+
+p.exe-block-alert { padding: 1em; }
+
+.exe-block-danger { background: rgb(254, 240, 239); color: rgb(151, 60, 59)=
+; border: 1px solid rgb(243, 218, 221); padding: 0px 1em; border-radius: 4p=
+x; }
+
+p.exe-block-danger { padding: 1em; }
+
+.exe-block-info { background: rgb(225, 241, 249); color: rgb(43, 98, 125); =
+border: 1px solid rgb(201, 237, 244); padding: 0px 1em; border-radius: 4px;=
+ }
+
+p.exe-block-info { padding: 1em; }
+
+.exe-block-success { background: rgb(229, 243, 224); color: rgb(51, 102, 52=
+); border: 1px solid rgb(222, 237, 209); padding: 0px 1em; border-radius: 4=
+px; }
+
+p.exe-block-success { padding: 1em; }
+
+.exe-block-warning a { color: rgb(79, 54, 10); }
+
+.exe-block-alert a { color: rgb(91, 38, 0); }
+
+.exe-block-danger a { color: rgb(109, 18, 17); }
+
+.exe-block-info a { color: rgb(6, 56, 83); }
+
+.exe-block-success a { color: rgb(9, 60, 10); }
+
+.js a.exe-enlarge { position: relative; display: block; }
+
+.exe-enlarge-icon { display: none; width: 30px; height: 30px; position: abs=
+olute; top: 50%; left: 50%; margin: -15px 0px 0px -15px; border-radius: 15p=
+x; background: rgb(51, 51, 51); z-index: 10; box-shadow: rgb(221, 221, 221)=
+ 0px 0px 7px 0px; }
+
+.exe-enlarge-icon b { width: 30px; height: 30px; line-height: 30px; text-al=
+ign: center; display: block; font-size: 1.3em; color: rgb(255, 255, 255); }
+
+.exe-enlarge-icon b::before { content: "+"; }
+
+.js a.exe-enlarge:hover img, .js a.exe-enlarge:focus img { opacity: 0.7; }
+
+a.exe-enlarge:hover .exe-enlarge-icon, a.exe-enlarge:focus .exe-enlarge-ico=
+n { display: block; }
+
+.exe-clear { overflow: auto; }
+
+.toggle-idevice, .exe-hidden, .js-required, .js .js-hidden, .exe-mindmap-co=
+de { display: none; }
+
+.js .js-required { display: block; }
+
+#packageLicense { text-align: center; }
+
+.js #main .iDevice_hint_title { font-size: 1em; margin-top: 0px; font-weigh=
+t: normal; }
+
+.iDevice_hint { margin-bottom: 1.5em; }
+
+.iDevice_hint_title a { background-repeat: no-repeat; background-position: =
+0px 50%; padding-left: 23px; text-decoration: none; }
+
+.iDevice_hint_content { padding: 0px 23px; }
+
+.iDevice_answer { overflow: hidden; }
+
+.iDevice_answer { overflow: hidden; }
+
+.iDevice_answer p { margin-top: 0px; }
+
+.iDevice_answer-field { width: 2.5em; float: left; }
+
+.js .iDevice_answer-content, .js .iDevice_answer-feedback { padding-left: 2=
+.5em; }
+
+.hidden-idevice .image_text { display: none; }
+
+abbr[title], acronym[title] { text-decoration: none; border-bottom: 1px dot=
+ted; }
+
+.pagination.page-counter { text-align: center; }
+
+.pagination.noprt .sep { display: none; }
+
+.pagination.noprt .page-counter { margin-right: 20px; }
+
+#topPagination .page-counter { margin-left: 20px; margin-right: 0px; }
+
+#skipNav { margin: 0px; position: absolute; width: 100%; }
+
+.sr-av, .js .js-sr-av, #skipNav a, .exe-hidden-accessible, .js .exe-tooltip=
+-text { position: absolute; overflow: hidden; clip: rect(0px, 0px, 0px, 0px=
+); height: 0px; }
+
+#skipNav a { background: rgb(51, 51, 51); color: rgb(255, 255, 255); paddin=
+g: 0.4em 0.85em; }
+
+#skipNav a:active, #skipNav a:focus { position: static; overflow: visible; =
+clip: auto; height: auto; }
+
+.exe-table { background: rgb(255, 255, 255); margin: 2em auto; max-width: 1=
+00%; border: 1px solid rgb(204, 204, 204); border-collapse: collapse; borde=
+r-spacing: 0px; }
+
+.exe-table caption { padding: 0.5em 0px; text-align: center; font-style: it=
+alic; }
+
+.exe-table td, .exe-table th { border: 1px solid rgb(204, 204, 204); margin=
+: 0px; padding: 0.5em 1em; }
+
+.exe-table thead { background: rgb(221, 221, 221); color: rgb(0, 0, 0); tex=
+t-align: left; }
+
+.exe-table tr:nth-child(2n-1) td, .exe-table tbody tr:nth-child(2n-1) th { =
+background: rgb(244, 244, 244); }
+
+.exe-table tbody tr:nth-child(2n) th { background: rgb(244, 244, 244); }
+
+.exe-table tbody tr:nth-child(2n-1) th { background: rgb(228, 228, 228); }
+
+.exe-table thead + tbody tr:nth-child(2n) th { background: rgb(255, 255, 25=
+5); }
+
+.exe-table thead + tbody tr:nth-child(2n-1) th { background: rgb(244, 244, =
+244); }
+
+.exe-table-minimalist { background: rgb(255, 255, 255); margin: 2em auto; b=
+order-collapse: collapse; }
+
+.exe-table-minimalist thead th { color: rgb(0, 0, 0); padding: 0.6em 1.5em =
+0.6em 0.8em; border-bottom: 2px solid rgb(204, 204, 204); text-align: left;=
+ }
+
+.exe-table-minimalist td, .exe-table-minimalist tbody th { border-bottom: 1=
+px solid rgb(204, 204, 204); color: rgb(85, 85, 85); padding: 0.5em 1.5em 0=
+.5em 0.8em; }
+
+.exe-table-minimalist tbody tr:hover td, .exe-table-minimalist tbody tr:hov=
+er th { color: rgb(34, 34, 34); }
+
+.exe-table-minimalist tr:nth-child(2n-1) td, .exe-table-minimalist tbody tr=
+:nth-child(2n-1) th { background: rgb(249, 249, 249); }
+
+.exe-table-minimalist caption { text-align: center; font-style: italic; bor=
+der-bottom: 2px solid rgb(204, 204, 204); padding: 0.6em 0px; }
+
+body .qtip { font-size: 0.85em; line-height: 1.5em; }
+
+.qtip .exe-tooltip-text { position: relative; overflow: auto; clip: auto; h=
+eight: auto; }
+
+ol.auto-numbered { counter-reset: item 0; }
+
+.auto-numbered ol { counter-reset: item 0; }
+
+.auto-numbered li { display: block; }
+
+.auto-numbered li::before { content: counters(item, ".") ".- "; counter-inc=
+rement: item 1; }
+
+.exe-quote-cite cite { display: block; text-align: right; margin-top: -0.5e=
+m; }
+
+.exe-link-data { font-size: 0.8em; margin: 0px 0.2em; }
+
+.exe-link-data abbr { cursor: help; }
+
+.styled-qc { font-family: Georgia, serif; font-style: italic; margin: 1.5em=
+ 2.5em; padding: 0.25em 3.5em; position: relative; }
+
+.styled-qc::before { display: block; content: "=E2=80=9C"; font-size: 5em; =
+position: absolute; left: 0px; top: -20px; }
+
+.js .pbl-task-info { visibility: hidden; }
+
+.pbl-task-info dt { float: left; font-weight: bold; margin-right: 0.5em; }
+
+.pbl-task-info { overflow: hidden; margin: 1em 0px 1.5em 20px; width: auto;=
+ float: right; text-align: right; }
+
+.pbl-task-info dt { margin: 0px; float: left; clear: left; width: 150px; }
+
+.pbl-task-info dd { margin: 0px 0px 0px 150px; text-align: left; padding-le=
+ft: 0.5em; }
+
+.pbl-task-info dd::after { content: ""; display: block; clear: both; }
+
+.pbl-task-description { clear: both; }
+
+iframe, object, embed { max-width: 100%; }
+
+img, video { max-width: 100%; height: auto; }
+
+@media (max-width: 992px) {
+  .exe-layout-3-cols .exe-col { float: none; width: 100%; padding: 0px; }
+  .exe-layout-3-cols .exe-col .exe-figure { margin: 2em auto; }
+}
+
+@media (max-width: 780px) {
+  .styled-qc { margin: 1.5em 0.5em; }
+  .exe-layout-2-cols .exe-col { float: none; width: 100%; padding: 0px; }
+  .exe-layout-2-cols .exe-col .exe-figure { margin: 2em auto; }
+}
+
+#exe-client-search-form { text-align: right; margin-bottom: 2em; }
+
+#exe-client-search-form p { margin: 0px; }
+
+#exe-client-search-text { border: 1px solid rgb(221, 221, 221); padding: 5p=
+x 10px; width: 250px; max-width: 60%; }
+
+#exe-client-search-submit { border: 1px solid rgb(221, 221, 221); padding: =
+5px 10px; background: rgb(221, 221, 221); margin-left: -0.4em; color: rgb(5=
+1, 51, 51); }
+
+.exe-client-search-results #nodeTitle, .exe-client-search-results .iDevice_=
+wrapper, #exe-client-search-results, #exe-client-search-reset { display: no=
+ne; }
+
+.exe-client-search-results #exe-client-search-results { display: block; }
+
+.exe-client-search-results #exe-client-search-reset { display: inline; line=
+-height: 2em; }
+
+#exe-client-search-results p { margin-top: 1.5em; }
+
+#exe-client-search-results ul { margin: 1.5em 1.5em 3em; padding: 0px; list=
+-style: none; }
+
+#main #exe-client-search-results li { list-style-image: none; margin-bottom=
+: 1.5em; }
+
+#exe-client-search-results a { font-size: 1.15em; }
+
+.exe-client-search-result { background: yellow; }
+
+.exe-client-search-read-more { font-size: 0.7em; margin-left: 0.2em; }
+
+#exe-client-search-reset { margin-left: 0.5em; }
+
+@media (max-width: 700px) {
+  #exe-client-search-form { text-align: center; }
+}
+
+@media (max-width: 600px) {
+  .exe-client-search-results #exe-client-search-reset { display: block; mar=
+gin: 1em 0px 0px; }
+}
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/content.css
+
+@charset "utf-8";
+
+body { background: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 1em;=
+ margin: 1em; font-family: HelveticaNeue-Light, "Helvetica Neue Light", "He=
+lvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; text-align: j=
+ustify; }
+
+a { color: rgb(0, 135, 255); text-decoration: none; border: 0px; }
+
+#header { display: none; }
+
+#nodeDecoration { padding: 0.1em; text-align: left; margin: 0.5em 0em; colo=
+r: rgb(0, 135, 255); font-weight: bolder; clear: both; }
+
+h1 { font-size: 2em; }
+
+h2 { font-size: 1.8em; }
+
+h3 { font-size: 1.6em; }
+
+h4 { font-size: 1.4em; }
+
+h5 { font-size: 1.3em; }
+
+h6 { font-size: 1.2em; }
+
+.nodeTitle { padding: 0.1em; border-bottom: 0.1em solid rgb(0, 135, 255); t=
+ext-align: left; margin: 0.5em 0em; color: rgb(0, 135, 255); font-weight: b=
+older; clear: both; }
+
+#nodeTitle { padding: 0.1em; border-bottom: 0.1em solid rgb(0, 135, 255); t=
+ext-align: left; margin: 0.5em 0em; color: rgb(0, 135, 255); font-weight: b=
+older; clear: both; }
+
+img { margin: 0.5em; }
+
+.imagen_ampliable { margin: 0.5em; padding: 0em 0.5em 0em 2em; background: =
+url("./lupa.png") left bottom no-repeat; }
+
+a .imagen_ampliable { border: 0px; }
+
+.titulo, .figcaption.header { font-size: 1em; text-align: center; font-weig=
+ht: bold; }
+
+.credenciales, .figcaption { text-align: center; font-size: xx-small; }
+
+.texto_izquierda { text-align: left; }
+
+.texto_derecha { text-align: right; }
+
+.texto_centrado { text-align: center; }
+
+.texto_justificado { text-align: justify; }
+
+.elemento_izquierda { float: left; margin-right: 10px; }
+
+.elemento_derecha { float: right; margin-left: 10px; }
+
+.elemento_centrado { text-align: center; display: block; width: 100%; margi=
+n: auto; }
+
+.codigo { background: url("pre_code_bg.gif") left top repeat-y; padding-lef=
+t: 4em; padding-right: 2em; }
+
+.codigo div { padding-top: 1.8em; padding-bottom: 1.8em; }
+
+.pre-code { color: rgb(0, 0, 0); border-radius: 0px; margin: 0px; overflow:=
+ auto; background: url("pre_code_bg.gif") left top repeat-y; padding: 1.8em=
+ 2em 1.8em 4em; }
+
+pre { color: rgb(0, 0, 0); margin-top: -0.4em; margin-bottom: 0.4em; font-s=
+ize: 12px; font-family: "DejaVu Sans Mono"; line-height: 20px; }
+
+* code { font-size: 12px; font-family: "DejaVu Sans Mono"; font-weight: bol=
+d; }
+
+pre code { font-weight: normal; }
+
+table { font-family: helvetica; font-size: 1em; }
+
+table[align=3D"center"] { margin-left: auto; margin-right: auto; }
+
+.tabla { margin: auto; }
+
+.tabla table, .tabla th, .tabla td { border: 0.1em solid rgb(212, 224, 238)=
+; border-collapse: collapse; font-family: HelveticaNeue-Light, "Helvetica N=
+eue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif=
+; color: rgb(85, 85, 85); }
+
+.tabla caption { font-size: 125%; font-weight: bold; margin: 0.5em; }
+
+.tabla td, .tabla th { padding: 0.5em; }
+
+.tabla thead th { text-align: center; background: rgb(195, 220, 247); color=
+: rgb(21, 49, 82); font-size: 100% !important; }
+
+.tabla tbody th { font-weight: bold; color: rgb(21, 49, 82); background: rg=
+b(195, 220, 247); text-align: center; }
+
+.tabla tbody tr { background: rgb(252, 253, 254); }
+
+.tabla td p, .tabla th p { margin-bottom: 0px; }
+
+.tabla tbody tr:hover, .tabla tfoot tr:hover { background-color: rgb(195, 2=
+20, 247); color: rgb(21, 49, 82); }
+
+.tabla tfoot th { font-weight: bold; color: rgb(21, 49, 82); background: rg=
+b(195, 220, 247); text-align: center; }
+
+.tabla tfoot td { font-weight: bold; }
+
+.enlace_centrado { text-align: center; margin: 1em 0em; }
+
+.documento { padding: 0.2em 0em 0.5em 2em; background: url("./documento.png=
+") 0.5em 25% no-repeat; }
+
+.pdf { padding: 0.2em 0em 0.5em 2em; background: url("./pdf.png") 0.5em 25%=
+ no-repeat; }
+
+.hcalculo { padding: 0.2em 0em 0.5em 2em; background: url("./hcalculo.png")=
+ 0.5em 25% no-repeat; }
+
+.dibujo { padding: 0.2em 0em 0.5em 2em; background: url("./dibujo.png") 0.5=
+em 25% no-repeat; }
+
+.presentacion { padding: 0.2em 0em 0.5em 2em; background: url("./presentaci=
+on.png") 0.5em 25% no-repeat; }
+
+.imagen { padding: 0.2em 0em 0.5em 2em; background: url("./imagen.png") 0.5=
+em 25% no-repeat; }
+
+.audio { padding: 0.2em 0em 0.5em 2em; background: url("./audio.png") 0.5em=
+ 25% no-repeat; }
+
+.video { padding: 0.2em 0em 0.5em 2em; background: url("./video.png") 0.5em=
+ 25% no-repeat; }
+
+.paquete { padding: 0.2em 0em 0.5em 2em; background: url("./paquete.png") 0=
+.5em 25% no-repeat; }
+
+.binario { padding: 0.2em 0em 0.5em 2em; background: url("./binario.png") 0=
+.5em 25% no-repeat; }
+
+.html { padding: 0.2em 0em 0.5em 2em; background: url("./html.png") 0.5em 2=
+5% no-repeat; }
+
+.tamano { font-size: xx-small; vertical-align: middle; }
+
+#packageLicense.cc { background: none; padding: 0px; line-height: inherit; =
+}
+
+.cc-by { background: url("cc-by.png") center center no-repeat; padding: 5px=
+ 36px; line-height: 16px; }
+
+.cc-by-nc { background: url("cc-by-nc.png") center center no-repeat; paddin=
+g: 5px 35px; line-height: 16px; }
+
+.cc-by-nd { background: url("cc-by-nd.png") center center no-repeat; paddin=
+g: 5px 35px; line-height: 16px; }
+
+.cc-by-sa { background: url("cc-by-sa.png") center center no-repeat; paddin=
+g: 5px 34px; line-height: 16px; }
+
+.cc-by-nc-nd { background: url("cc-by-nc-nd.png") center center no-repeat; =
+padding: 5px 31px; line-height: 16px; }
+
+.cc-by-nc-sa { background: url("cc-by-nc-sa.png") center center no-repeat; =
+padding: 5px 31px; line-height: 16px; }
+
+.cc0 { background: url("cc0.png") center center no-repeat; padding: 10px 28=
+px; line-height: 21px; }
+
+.transparente { opacity: 0; font-family: arial; font-size: 5px; visibility:=
+ hidden; }
+
+.glosario, a.definition-tt { border-bottom-width: 1px; border-bottom-style:=
+ dotted; border-bottom-color: inherit; outline: none; cursor: help; text-de=
+coration: none; position: relative; color: inherit; padding: 0em 0em 0em 1.=
+5em; background: url("./glosario.png") left top no-repeat; }
+
+a.glosario:hover { text-decoration: none; }
+
+.glosario span { margin-left: -999em; position: absolute; color: rgb(0, 0, =
+0); background: url("postit.png") 1em 1em no-repeat rgb(159, 218, 238); bor=
+der: 1px solid rgb(43, 176, 215); text-align: justify; display: none; }
+
+.glosario:hover span { border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.1) 5=
+px 5px; z-index: 99; display: block; float: right; margin-right: 10%; margi=
+n-top: -0.2em; position: relative; width: 40%; text-decoration: none; font-=
+weight: normal; }
+
+.glosario:hover em { font-size: 1.2em; font-weight: bold; display: block; p=
+adding: 1em 0px 0.6em; margin-left: 3em; }
+
+a.glosario span { padding: 0.5em 1em 0.8em; }
+
+* html a:hover { background: transparent; }
+
+.iDeviceTitle { font-size: 2em; top: -0.2em; display: inline; }
+
+.emphasis1, .iDevice_wrapper[class*=3D"fpd"] > .iDevice[class*=3D"fpd"] { b=
+order-radius: 1em; box-shadow: rgba(0, 0, 0, 0.1) 5px 5px; padding: 0.5em 1=
+em; margin: 1em; clear: both; }
+
+.iDevice_header { padding-left: 4.5em; padding-top: 1.2em; margin: 1em; }
+
+.iDevice_hint { margin-top: 0.5em; }
+
+.EleccionmultiplefpdIdevice .iDevice_hint { margin-top: 1em; }
+
+.iDevice_inner { margin: 1em; }
+
+.feedback { }
+
+.iDevice_answer .feedback { margin-bottom: 1em; }
+
+.feedback p { margin: 0.5em; }
+
+.js .iDevice_answer-feedback { padding-left: 0.5em; }
+
+.iDevice_answer-field { width: 2em; }
+
+.iDevice_answer { padding-top: 0.25em; padding-bottom: 0.25em; margin: 0em;=
+ }
+
+.iDevice_answer-content .block { padding: 0em; }
+
+.iDevice_answer p { margin-top: 0px; }
+
+.VerdaderofalsofpdIdevice .question { margin: 0.5em 0px; }
+
+p, .question .iDevice_content p:first-child { margin: 0px 0px 1em; }
+
+.iDevice_content p:first-child, .iDevice_answer .iDevice_content p:first-ch=
+ild { margin-top: 0em; }
+
+.iDevice_content_wrapper br { display: none; }
+
+.pp_default { font-size: 0.1em; }
+
+.exeImageGallery { overflow: hidden; }
+
+.pp_gallery { display: none !important; }
+
+div.pp_default .pp_nav .currentTextHolder { font-size: 15px; font-family: H=
+elveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Ar=
+ial, "Lucida Grande", sans-serif; }
+
+.iDevice_content::before, .iDevice_content::after { content: ""; display: t=
+able; }
+
+.iDevice_content::after { clear: both; }
+
+.iDevice_content { }
+
+.separador { clear: both; }
+
+.emphasis_orientacionesfpd { background-color: rgb(250, 218, 192); color: r=
+gb(97, 36, 19); border: 0.1em solid rgb(97, 36, 19); }
+
+.emphasis_orientacionesfpd .iDevice_header { background-image: url("icon_or=
+ientacionesfpd.png"); }
+
+.emphasis_parasabermasfpd { background-color: rgb(251, 252, 215); color: rg=
+b(102, 82, 29); border: 0.1em solid rgb(102, 82, 29); }
+
+.emphasis_parasabermasfpd .iDevice_header { background-image: url("icon_par=
+asabermasfpd.png"); }
+
+.emphasis_debesconocerfpd { background-color: rgb(243, 216, 250); color: rg=
+b(73, 16, 87); border: 0.1em solid rgb(73, 16, 87); }
+
+.emphasis_debesconocerfpd .iDevice_header { background-image: url("icon_deb=
+esconocerfpd.png"); }
+
+.emphasis_citasparapensarfpd { background-color: rgb(241, 216, 200); color:=
+ rgb(94, 42, 13); border: 0.1em solid rgb(94, 42, 13); }
+
+.emphasis_citasparapensarfpd .iDeviceTitle { background-color: rgb(241, 216=
+, 200); color: rgb(94, 42, 13); font-size: 2em; }
+
+.emphasis_citasparapensarfpd .iDevice_header { background-image: url("icon_=
+citasparapensarfpd.png"); }
+
+.emphasis_recomendacionfpd { background-color: rgb(242, 232, 177); color: r=
+gb(89, 36, 17); border: 0.1em solid rgb(89, 36, 17); }
+
+.emphasis_recomendacionfpd .iDevice_header { background-image: url("icon_re=
+comendacionfpd.png"); }
+
+.emphasis_autoevaluacionfpd { background-color: rgb(222, 237, 250); color: =
+rgb(4, 64, 133); border: 0.1em solid rgb(4, 64, 133); }
+
+.emphasis_autoevaluacionfpd .iDevice_inner p { margin-bottom: 0em; }
+
+.emphasis_autoevaluacionfpd input[type=3D"button"], .emphasis_autoevaluacio=
+nfpd input[type=3D"text"] { text-align: center; color: rgb(222, 237, 250); =
+background-color: rgb(4, 64, 133); border-radius: 0.5em; }
+
+.emphasis_autoevaluacionfpd .question { height: auto; overflow: hidden; }
+
+.emphasis_casopracticofpd { background-color: rgb(226, 247, 210); color: rg=
+b(35, 97, 34); border: 0.1em solid rgb(35, 97, 34); }
+
+.emphasis_casopracticofpd .iDevice_header { background-image: url("icon_cas=
+opracticofpd.png"); }
+
+.emphasis_reflexionfpd { background-color: rgb(240, 211, 211); color: rgb(1=
+02, 15, 15); border: 1px solid rgb(102, 15, 15); }
+
+.emphasis_reflexionfpd .iDevice_header { background-image: url("icon_reflex=
+ionfpd.png"); }
+
+.emphasis_reflexionfpd .feedbackbutton { text-align: center; color: rgb(240=
+, 211, 211); background-color: rgb(102, 15, 15); border-radius: 0.5em; }
+
+.emphasis_reflexionfpd .feedback .block p { margin-bottom: 0em; }
+
+.emphasis_ejercicioresueltofpd .iDevice_header { background-image: url("ico=
+n_ejercicioresueltofpd.png"); }
+
+.emphasis_ejercicioresueltofpd { background-color: rgb(244, 248, 172); colo=
+r: rgb(12, 48, 82); border: 0.1em solid rgb(12, 48, 82); }
+
+.emphasis_ejercicioresueltofpd .feedbackbutton { text-align: center; color:=
+ rgb(244, 248, 172); background-color: rgb(12, 48, 82); border-radius: 0.5e=
+m; box-shadow: rgba(0, 0, 0, 0.1) 5px 5px; }
+
+.emphasis_ejercicioresueltofpd .question { margin: -1em 0em 0em; padding: 0=
+em; }
+
+.emphasis_ejercicioresueltofpd .feedback p { margin-bottom: 0em; }
+
+.iDevice_destacadofpd { background: rgb(195, 220, 247); color: rgb(21, 49, =
+82); border-radius: 1em; box-shadow: rgba(0, 0, 0, 0.1) 5px 5px; padding: 1=
+em 1.5em 0.5em; margin: 1em; clear: both; }
+
+.destacado { background: rgb(195, 220, 247); color: rgb(21, 49, 82); border=
+-radius: 1em; padding: 1em 1.5em 0.5em; margin: 1em; clear: both; }
+
+.destacado_inline { background: rgb(195, 220, 247); color: rgb(21, 49, 82);=
+ border-radius: 0.5em; padding: 0.15em 0.5em; }
+
+.resaltado_inline { background-color: rgb(0, 71, 129); border-radius: 0.5em=
+; color: rgb(255, 255, 255); padding: 0.15em 0.5em; }
+
+.feedback { border: 0.1em dashed rgb(78, 78, 78); border-radius: 0.5em; col=
+or: rgb(78, 78, 78); background-color: rgb(248, 248, 255); padding: 0.5em; =
+margin: 0.5em; font-family: HelveticaNeue-Light, "Helvetica Neue Light", "H=
+elvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 1=
+em; }
+
+.GalleryIdevice .iDevice_header { background-image: url("icon_gallery.png")=
+; }
+
+.GalleryIdevice .emphasis1 { background-color: rgb(251, 252, 215); color: r=
+gb(102, 82, 29); border: 0.1em solid rgb(102, 82, 29); }
+
+.GalleryIdevice table { color: rgb(102, 82, 29); }
+
+.activityIdevice .iDevice_header { background-image: url("icon_activity.png=
+"); }
+
+.activityIdevice .emphasis1 { background-color: rgb(243, 216, 250); color: =
+rgb(73, 16, 87); border: 0.1em solid rgb(73, 16, 87); }
+
+.activityIdevice table { color: rgb(155, 40, 183); }
+
+.preknowledgeIdevice .iDevice_header { background-image: url("icon_preknowl=
+edge.png"); }
+
+.preknowledgeIdevice .emphasis1 { color: rgb(35, 97, 34); background-color:=
+ rgb(226, 247, 210); border: 0.1em solid rgb(35, 97, 34); }
+
+.preknowledgeIdevice table { color: rgb(35, 97, 34); }
+
+.objectivesIdevice .iDevice_header { background-image: url("icon_objectives=
+.png"); }
+
+.objectivesIdevice .emphasis1 { color: rgb(97, 36, 19); background-color: r=
+gb(250, 218, 192); border: 0.1em solid rgb(97, 36, 19); }
+
+.objectivesIdevice table { color: rgb(97, 36, 19); }
+
+.CasestudyIdevice .iDevice_header { background-image: url("icon_casestudy.p=
+ng"); }
+
+.CasestudyIdevice .emphasis1 { color: rgb(12, 48, 82); background-color: rg=
+b(244, 248, 172); border: 0.1em solid rgb(12, 48, 82); }
+
+.CasestudyIdevice table { color: rgb(12, 48, 82); }
+
+.CasestudyIdevice input.feedbackbutton { text-align: center; background-col=
+or: rgb(12, 48, 82); color: rgb(244, 248, 172); border-radius: 0.5em; }
+
+.readingIdevice .iDevice_header { background-image: url("icon_reading.png")=
+; }
+
+.readingIdevice .emphasis1 { background-color: rgb(242, 232, 177); color: r=
+gb(89, 36, 17); border: 0.1em solid rgb(89, 36, 17); }
+
+.readingIdevice .iDevice_inner br { display: none; }
+
+.readingIdevice table { color: rgb(124, 56, 18); }
+
+.readingIdevice input.feedbackbutton { text-align: center; background-color=
+: rgb(89, 36, 17); color: rgb(242, 232, 177); border-radius: 0.5em; }
+
+.ReflectionIdevice .iDevice_header { background-image: url("icon_reflection=
+.png"); }
+
+.ReflectionIdevice .emphasis1 { color: rgb(102, 15, 15); background-color: =
+rgb(240, 211, 211); border: 0.1em solid rgb(102, 15, 15); }
+
+.ReflectionIdevice table { color: rgb(102, 15, 15); }
+
+.ReflectionIdevice input.feedbackbutton { text-align: center; background-co=
+lor: rgb(102, 15, 15); color: rgb(240, 211, 211); border-radius: 0.5em; }
+
+.QuizTestIdevice .iDevice_header, .MultiSelectIdevice .iDevice_header, .Mul=
+tichoiceIdevice .iDevice_header, .ClozeIdevice .iDevice_header, .ClozelangI=
+device .iDevice_header, .TrueFalseIdevice .iDevice_header, .ListaIdevice .i=
+Device_header { background-image: url("icon_question.gif"); }
+
+.QuizTestIdevice .emphasis1, .MultiSelectIdevice .emphasis1, .MultichoiceId=
+evice .emphasis1, .ClozeIdevice .emphasis1, .ClozelangIdevice .emphasis1, .=
+TrueFalseIdevice .emphasis1, .ListaIdevice .emphasis1 { background-color: r=
+gb(222, 237, 250); color: rgb(4, 64, 133); border: 0.1em solid rgb(4, 64, 1=
+33); }
+
+.QuizTestIdevice .iDevice_inner, .MultiSelectIdevice .iDevice_inner, .Multi=
+choiceIdevice .iDevice_inner, .ClozeIdevice .iDevice_inner, .ClozelangIdevi=
+ce .iDevice_inner, .TrueFalseIdevice .iDevice_inner, .ListaIdevice .iDevice=
+_inner { color: rgb(4, 64, 133); background-color: rgb(222, 237, 250); }
+
+.QuizTestIdevice table, .MultiSelectIdevice table, .MultichoiceIdevice tabl=
+e, .ClozeIdevice table, .ClozelangIdevice table, .TrueFalseIdevice table, .=
+ListaIdevice table { color: rgb(4, 64, 133); }
+
+.QuizTestIdevice .question, .MultiSelectIdevice .question, .MultichoiceIdev=
+ice .question, .ClozeIdevice .question, .ClozelangIdevice .question, .TrueF=
+alseIdevice .question, listaidevice .question { color: rgb(4, 64, 133); bac=
+kground-color: rgb(222, 237, 250); }
+
+.QuizTestIdevice input[type=3D"button"], .MultiSelectIdevice input[type=3D"=
+button"], .ClozeIdevice input[type=3D"button"], .ClozelangIdevice input[typ=
+e=3D"button"], .ListaIdevice input[type=3D"button"] { text-align: center; b=
+ackground-color: rgb(4, 64, 133); color: rgb(222, 237, 250); border-radius:=
+ 0.5em; }
+
+.QuizTestIdevice input[type=3D"submit"] { text-align: center; background-co=
+lor: rgb(4, 64, 133); color: rgb(222, 237, 250); border-radius: 0.5em; }
+
+.ClozeIdevice input[type=3D"text"], .ClozelangIdevice input[type=3D"text"],=
+ listaidevice input[type=3D"text"] { text-align: center; background-color: =
+rgb(4, 64, 133); color: rgb(222, 237, 250); border-radius: 0.5em; }
+
+.MultichoiceIdevice input[type=3D"radio"], .TrueFalseIdevice input[type=3D"=
+radio"] { background-color: rgb(222, 237, 250); color: rgb(4, 64, 133); }
+
+.QuizTestIdevice input[type=3D"checkbox"], .MultiSelectIdevice input[type=
+=3D"checkbox"] { background-color: rgb(222, 237, 250); color: rgb(4, 64, 13=
+3); }
+
+.iDevice li { list-style-position: outside; }
+
+.lista_verificacion { list-style-image: url("./bullet.png"); }
+
+.lista_verificacion li { list-style-image: url("./nivel1.png"); }
+
+.lista_verificacion ul li { list-style-image: url("./nivel2.png"); }
+
+.lista_verificacion ul ul li { list-style-image: url("./nivel3.png"); }
+
+.lista_verificacion ul ul ul li { list-style-image: url("./nivel4.png"); }
+
+.lista_verificacion ul ul ul ul li { list-style-image: url("./nivel5.png");=
+ }
+
+.lista_verificacion ul ul ul ul ul li { list-style-image: url("./nivel6.png=
+"); }
+
+ol.lista_esquema { counter-reset: item 0; }
+
+.lista_esquema ol { counter-reset: item 0; }
+
+.lista_esquema li { display: block; }
+
+.lista_esquema li::before { content: counters(item, ".") ".- "; counter-inc=
+rement: item 1; }
+
+.exe-fx .fx-accordion-content { padding-top: 1em; }
+
+.exe-fx .fx-tab-content { padding-top: 1.5em; }
+
+div.exe-block-warning, div.exe-block-alert, div.exe-block-danger, div.exe-b=
+lock-info, div.exe-block-success { padding: 1em; margin: 1em 0px; }
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/bullet.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAYAAACALL/6AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oIFxASBOFwprQAAAAZdEVYdENv
+bW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAABc0lEQVQY0zWOzWoTURhAz3czMwkqKU2loYtA
+WoSQB/ARunNdt10UH0AXbtz4CK4FUcSd4AP4FkUKRogTmhQDpU07zN+d+e7nwnjWh8NhWRS0IaAh
+MM+yJ14VDYG8bcnblo33fE5T+3F396tSRbwqm6ZhkCQACNCYYWbUIfApTa0OgUiEF0dHItd1zW4c
+Y0DYSrFzVKp8W61MgO/rNcfDIYs8x/WjiEKV1+fn1pjhRFAz3l5c2Lqq+J3nHA+HrMqSl5OJyE1d
+8yFNzQFXVcWb6VTez+cmIjyKIrKmoVTl1WQiZoa8m81MzdiJY7K25bIo2Ilj9ns9Nt7T63Q4HY+l
+VGUvSZCN93xMU5tlGU8HA9SM+231YRRxdngokXNEIlyVJVKp0oTA1+XSLouCB9uNQZJwOh5L4hyx
+c9x6z26SIG0I/KkqHne7fFks7GeWMe33ORmNxAGxcwhg/MM1IbDf7QLwfDSSnnM8OzgQgI4IAqj9
+1+EvrwbRF1UYb6AAAAAASUVORK5CYII=
+
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/nivel1.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A
+/wD/oL2nkwAAAAlwSFlzAAAN1wAADdcBQiibeAAAAAd0SU1FB9sFAg8uG1z6hkoAAAGASURBVCjP
+fVBLSwJhFD3fzOQjU4giR9Sxkha9JIOgRRC06QFF4Cawx67AFv6CkAiKoK3UJgRBaGVgUCEogkWb
+dkW6sALtsYhsoYGk33wtGiWhvJt7OPdc7jkX+KcuGPsBdjtf5cYiETSsoWi003d1dTCeSExXOa6B
+npvWar2S0bg2bzIFBs/P+xouLMTjUnNb23pZlpEvle5vpqbuAIBrliQsZ7M14UgwCACoaDQ+Pc83
+vZRK2EsmVwHA6fcDXiXcbDK51RsIuABA3NmZ3E6l2ObtLXNdXm4AwGg4DAAgSrjRGVGM8YSoYo+P
+i06zeUMvCP3FSiX/kE47Tt3u57rQekpbPr6+ykVKBafFciRwXP8npSybz++fut3PtqWlmmVSBXOh
+kIlarVGbTjdQlmVGGXs9ub52vHk877+fwQOARhSROTsrPhUKgdaengmVWi3d5HKHmZWVYxDC//VF
+AkALoB0GQ/dwMLgLoAuE2AB0KDNSZ0nBnHJVBiAonSqdAcA3uySD7ZGpn3UAAAAASUVORK5CYII=
+
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.mecd.es/cidead/aulavirtual/pluginfile.php/444297/mod_resource/content/3/HE01_OrientacionesAlumnado/icon_orientacionesfpd.png
+
+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
+Pvf/AJuZCax6p7q1AAAAAElFTkSuQmCC
+
+------MultipartBoundary--8m5RDobdU7EiDp5DFyybQrnEDt8v8527JlbHDlkIOm------
